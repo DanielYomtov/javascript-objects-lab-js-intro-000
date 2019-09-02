@@ -1,1 +1,1 @@
-let recipes = new Objects();
+let recipes = new Object();
